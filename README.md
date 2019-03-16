@@ -27,15 +27,15 @@ Methods are actions
 
 #### Inheritance
 Subclasses Inherite the attributes from the super class it is denote with an arrow.
-eg: hammersmith ---- Inherite ---- human<super class>
+eg: sportman ---- inherite ---- human<super class>
 
 #### Association
 The associations explains a generic association between these two classes.
-eg: turtle ---- association ---(eat)--- algae
+eg: turtle ---- association ----(eat)---- algae
 
 #### Aggregation
 The aggregation explains a group of the same objects into an association. 
-eg: human ---- aggregate ---- sport team
+eg: sportman ---- aggregate ---- sport team
 
 #### Composition
 The composition explains an association between a child objects and a parent objects in which the child objects exists
