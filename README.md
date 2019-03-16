@@ -27,24 +27,24 @@ Methods are actions
 
 #### Inheritance
 Subclasses Inherite the attributes from the super class it is denote with an arrow.
-- eg: sportman<sub class> ---- inherite ---- human<super class>
-- eg: sportfan<sub class> ---- inherite ---- human<super class>
+- eg: sportman ---- inherite ---- human
+- eg: sportfan ---- inherite ---- human
 
 #### Association
 The associations explains a generic association between these two classes.
-- eg: sportman<sub class> ---- association(play)---- sport<sub class>
-- eg: sportfan<sub class> ---- association(drink)---- beer<sub class>
+- eg: sportman ---- association(play)---- sport
+- eg: sportfan ---- association(drink)---- beer
 
 #### Aggregation
 The aggregation explains a group of the same objects into an association. 
-- eg: sportman<sub class> ---- aggregate ---- sport team <sub class>
-- eg: sportfan<sub class> ---- aggregate ---- sport fan club <sub class>
+- eg: sportman ---- aggregate ---- sport team 
+- eg: sportfan ---- aggregate ---- sport fan club 
 
 #### Composition
 The composition explains an association between a child objects and a parent objects in which the child objects exists
 iff the parent exists. The line is denoted with a line ending with a black rhombus
-eg: hotelBathroom<sub class> ---- composition ---- hotel <sub class>
-eg: teamFanClub<sub class> ---- composition ---- sport team <sub class>
+- eg: hotelBathroom ---- composition ---- hotel 
+- eg: teamFanClub ---- composition ---- sport team 
 
 
 
