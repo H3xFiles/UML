@@ -1,8 +1,25 @@
 # UML
-Models support a representation of a system that is reduced to the essentials in order to minimize the complexity of the system to manageable aspects.
+UML is not tied to a specific development tool, specific programming
+language, or specific target platform on which the system to be developed must be used. Neither does UML offer a software development process. UML in fact separates the modeling language and modeling method. UML use models, models are a representation of a system that is reduced to the essentials in order to minimize the complexity of the system to manageable aspects.
 The characteristics of a models are Abstraction, Understandability, Accuracy, Predictiveness, Cost-effectiveness.
-The objected oriented phylosophy has a definite approach that evolve with the time as best methods. 
-
+The objected oriented phylosophy has a definite approach that evolve with the time as best methods. In UML, a model is represented graphically in the form of diagrams. 
+ - Structure Diagrams
+   - The Class Diagram
+   - The Object Diagram
+   - The Package Diagram
+   - The Component Diagram
+   - The Composition Structure Diagram
+   - The Deployment Diagram
+   - The Profile Diagram
+ - Behavior Diagrams
+   - The Use Case Diagram
+   - The State Machine Diagram
+   - The Activity Diagram
+   - The Sequence Diagram
+   - The Communication Diagram
+   - The Timing Diagram
+   - The Interaction Overview Diagram
+   
 ## General terms:
 - classes
    - In many object-oriented approaches, it is possible to define classes that
