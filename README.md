@@ -1,4 +1,4 @@
-# UML
+# UML summary
 UML is not tied to a specific development tool, specific programming
 language, or specific target platform on which the system to be developed must be used. Neither does UML offer a software development process. UML in fact separates the modeling language and modeling method. UML use models, models are a representation of a system that is reduced to the essentials in order to minimize the complexity of the system to manageable aspects.
 The characteristics of a models are Abstraction, Understandability, Accuracy, Predictiveness, Cost-effectiveness.
