@@ -43,7 +43,7 @@ references to objects from different classes. Real life example of polymorphism,
 
 ![](https://raw.githubusercontent.com/H3xFiles/UML/master/Screenshot%20from%202019-03-17%2015-58-29.png)
 
-## class diagram
+# Class diagram
 ![](https://www.tutorialspoint.com/uml/images/uml_class_diagram.jpg)
 
 The purpose of class diagram is to model the static view of an application. Class diagrams are the only diagrams which can be directly mapped with object-oriented languages and thus widely used at the time of construction.</br>
@@ -116,8 +116,8 @@ Subclasses Inherite the attributes from the super class it is denote with an arr
 
 ![](https://raw.githubusercontent.com/H3xFiles/UML/master/Screenshot%20from%202019-03-17%2015-58-29.png)
 
-## case diagram
+# Case diagram
 
 ![](https://raw.githubusercontent.com/H3xFiles/UML/master/Screenshot%20from%202019-03-17%2015-58-29.png)
 
-## sequence diagram
+# Sequence diagram
