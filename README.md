@@ -41,6 +41,7 @@ from existing classes.
 During the execution of a program, a polymorphic attribute can have
 references to objects from different classes. Real life example of polymorphism, a person at a same time can have different characteristic. Like a man at a same time is a father, a husband, a employee. So a same person posses have different behavior in different situations. 
 
+![](https://raw.githubusercontent.com/H3xFiles/UML/master/twotonHorseandCannonLine_preview.png)
 ## class diagram
 ![](https://www.tutorialspoint.com/uml/images/uml_class_diagram.jpg)
 
