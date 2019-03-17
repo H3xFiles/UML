@@ -117,6 +117,8 @@ Subclasses Inherite the attributes from the super class it is denote with an arr
 ![](https://raw.githubusercontent.com/H3xFiles/UML/master/Screenshot%20from%202019-03-17%2015-58-29.png)
 
 # Use case diagram
+![](https://raw.githubusercontent.com/H3xFiles/UML/master/summaryUseCase.png)
+
 A use case describes functionality expected from the system to be deA veloped. It encompasses a number of functions that are executed when using this system. 
 Specifically, we can employ a use case diagram to answer the following questions:
 - 1. What is being described? (The system.)
@@ -124,13 +126,14 @@ Specifically, we can employ a use case diagram to answer the following questions
 - 3. What can the actors do? (The use cases.)
 
 ### Actors
+![](https://raw.githubusercontent.com/H3xFiles/UML/master/relationshipsbetweenactors.png)
+
 To describe a system completely, it is essential to document not only
 what the system can do but also who actually works and interacts with
 the system. In the use case diagram, actors always interact with the sys-
 tem in the context of their use cases, that is, the use cases with which
 they are associated. Actors can be human (e.g., student or professor) or non-human (e.g., e-mail
 server). 
-
 
 
 
