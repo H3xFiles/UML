@@ -38,6 +38,7 @@ Methods are actions
    - it means that can be accessed only from the class or subclass
 
 ### Type of associations:
+![](https://raw.githubusercontent.com/H3xFiles/UML/master/Screenshot%20from%202019-03-17%2015-15-33.png)
 
 #### Inheritance
 Subclasses Inherite the attributes from the super class it is denote with an arrow.
