@@ -3,6 +3,7 @@
 
 ## class diagram
 ![](https://www.tutorialspoint.com/uml/images/uml_class_diagram.jpg)
+
 The purpose of class diagram is to model the static view of an application. Class diagrams are the only diagrams which can be directly mapped with object-oriented languages and thus widely used at the time of construction.</br>
 UML diagrams like activity diagram, sequence diagram can only give the sequence flow of the application, however class diagram is a bit different. It is the most popular UML diagram in the coder community.
 
