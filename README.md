@@ -40,6 +40,14 @@ Methods are actions
 ### Type of associations:
 ![](https://raw.githubusercontent.com/H3xFiles/UML/master/Screenshot%20from%202019-03-17%2015-15-33.png)
 
+#### Dependency 
+A dependency implies only that objects of a class can work together; therefore, it is
+considered to be the weakest direct relationship that can exist between two classes.
+The dependency relationship is often used when you have a class that
+is providing a set of general-purpose utility functions, such as in Java’s
+regular expression (java.util.regex) and mathematics (java.math)
+packages. Classes depend on the java.util.regex and java.math
+classes to use the utilities that those classes offer.
 
 #### Association
 The associations explains a generic association between these two classes.
