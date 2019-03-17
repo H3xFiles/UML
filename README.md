@@ -41,7 +41,8 @@ from existing classes.
 During the execution of a program, a polymorphic attribute can have
 references to objects from different classes. Real life example of polymorphism, a person at a same time can have different characteristic. Like a man at a same time is a father, a husband, a employee. So a same person posses have different behavior in different situations. 
 
-![](https://raw.githubusercontent.com/H3xFiles/UML/master/twotonHorseandCannonLine_preview.png)
+![](https://raw.githubusercontent.com/H3xFiles/UML/master/Screenshot%20from%202019-03-17%2015-58-29.png)
+
 ## class diagram
 ![](https://www.tutorialspoint.com/uml/images/uml_class_diagram.jpg)
 
@@ -113,8 +114,10 @@ Subclasses Inherite the attributes from the super class it is denote with an arr
 
 
 
-
+![](https://raw.githubusercontent.com/H3xFiles/UML/master/Screenshot%20from%202019-03-17%2015-58-29.png)
 
 ## case diagram
+
+![](https://raw.githubusercontent.com/H3xFiles/UML/master/Screenshot%20from%202019-03-17%2015-58-29.png)
 
 ## sequence diagram
