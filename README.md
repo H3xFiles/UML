@@ -40,10 +40,6 @@ Methods are actions
 ### Type of associations:
 ![](https://raw.githubusercontent.com/H3xFiles/UML/master/Screenshot%20from%202019-03-17%2015-15-33.png)
 
-#### Inheritance
-Subclasses Inherite the attributes from the super class it is denote with an arrow.
-- eg: sportman ---- inherite ---- human
-- eg: sportfan ---- inherite ---- human
 
 #### Association
 The associations explains a generic association between these two classes.
@@ -60,6 +56,11 @@ The composition explains an association between a child objects and a parent obj
 iff the parent exists. The line is denoted with a line ending with a black rhombus
 - eg: hotelBathroom ---- composition ---- hotel 
 - eg: teamFanClub ---- composition ---- sport team 
+
+#### Inheritance
+Subclasses Inherite the attributes from the super class it is denote with an arrow.
+- eg: sportman ---- inherite ---- human
+- eg: sportfan ---- inherite ---- human
 
 
 
