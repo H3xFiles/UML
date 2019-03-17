@@ -1,5 +1,28 @@
 # UML
+Models support a representation of a system that is reduced to the essentials in order to minimize the complexity of the system to manageable aspects.
+The characteristics of a models are Abstraction, Understandability, Accuracy, Predictiveness, Cost-effectiveness.
+The objected oriented phylosophy has a definite approach that evolve with the time as best methods. 
 
+## General terms:
+- classes
+   - In many object-oriented approaches, it is possible to define classes that
+describe the attributes and the behavior of a set of objects (the instances
+of a class) abstractly and thus group common features of objects.
+- objects
+   - The instances of a class are referred to as its objects.
+- encapsulation
+   - Encapsulation is the protection against unauthorized access to the inter
+nal state of an object via a uniquely defined interface. Different levels
+of visibility of the interfaces help to define different access authorizations.
+- messages
+   - Objects communicate with one another through messages. 
+- inheritance
+   - The concept of inheritance is a mechanism for deriving new classes 
+from existing classes.
+- polymorphism
+   - In general terms, polymorphism is the ability to adopt different forms.
+During the execution of a program, a polymorphic attribute can have
+references to objects from different classes. Real life example of polymorphism, a person at a same time can have different characteristic. Like a man at a same time is a father, a husband, a employee. So a same person posses have different behavior in different situations. 
 
 ## class diagram
 ![](https://www.tutorialspoint.com/uml/images/uml_class_diagram.jpg)
